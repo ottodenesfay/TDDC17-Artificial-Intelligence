@@ -1,0 +1,1169 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+
+<channel>
+	<title>Planet Eclipse</title>
+	<link>http://planeteclipse.org/planet/</link>
+	<language>en</language>
+	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
+
+<item>
+	<title>EclipseCon Europe 2018: Smart Home Day</title>
+	<guid isPermaLink="false">https://www.eclipsecon.org/news/746 at https://www.eclipsecon.org</guid>
+	<link>https://www.eclipsecon.org/europe2018/news/smart-home-day</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Join us for the second installment of &lt;a href=&quot;https://www.eclipsecon.org/europe2018/smarthome&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Smart Home Day&lt;/a&gt; on 21 October, the Sunday before EclipseCon Europe.&lt;/p&gt;
+&lt;p&gt;The Smart Home Day focuses specifically on &lt;a href=&quot;https://www.eclipse.org/smarthome&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;Eclipse SmartHome&lt;/a&gt;-based solutions such as &lt;a href=&quot;https://www.openhab.org/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;openHAB&lt;/a&gt; and &lt;a href=&quot;https://www.qivicon.com/&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;QIVICON&lt;/a&gt;. It is an awesome opportunity for all community members to meet and exchange ideas.&lt;/p&gt;
+&lt;p&gt;There will be great talks from core project maintainers, solution providers, and other community members. The agenda has been carefully compiled to addresses developers, tech-savvy users, and other smart home enthusiasts alike.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2018/news/smart-home-day&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;img-responsive block-center&quot; height=&quot;250&quot; src=&quot;https://www.eclipsecon.org/sites/default/files/styles/solstice_news_-_default_-_thumbnail/public/news/shd_logo_square.png?itok=4AOOs8lA&quot; width=&quot;250&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Sat, 13 Oct 2018 16:30:47 +0000</pubDate>
+</item>
+<item>
+	<title>Donald Raab: Ten reasons to use Eclipse Collections</title>
+	<guid isPermaLink="false">https://medium.com/p/91593104af9d</guid>
+	<link>https://medium.com/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d?source=rss-df39b86e9f04------2</link>
+	<description>&lt;p&gt;You may only need one.&lt;/p&gt;&lt;figure&gt;&lt;img alt=&quot;&quot; src=&quot;https://cdn-images-1.medium.com/max/1024/1*CLFvYwgK9DI_NMtLu8rwFg.png&quot; /&gt;It’s a sign&lt;/figure&gt;&lt;h3&gt;Top Ten Reasons to use &lt;a href=&quot;http://www.eclipse.org/collections/&quot;&gt;Eclipse collections&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;Rich, fluent, and functional APIs with good &lt;a href=&quot;https://medium.com/@donraab/symmetric-sympathy-2c59d4541d60&quot;&gt;symmetry&lt;/a&gt; (productivity)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://medium.com/oracledevs/unifiedset-the-memory-saver-25b830745959&quot;&gt;Memory Efficiency&lt;/a&gt; (performance)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://medium.com/@donraab/the-4am-jamestown-scotland-ferry-and-other-optimization-strategies-66365ac415ef&quot;&gt;Optimized Eager APIs &lt;/a&gt;(performance)&lt;/li&gt;&lt;li&gt;Primitive Collections (productivity &amp;amp; performance)&lt;/li&gt;&lt;li&gt;Immutable Collections (predictability and performance)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://medium.com/@donraab/lazy-and-inexhaustible-f41ffda857dc&quot;&gt;Lazy API&lt;/a&gt;s (performance)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://www.infoq.com/presentations/java-streams-scala-parallel-collections&quot;&gt;Parallel APIs &lt;/a&gt;(performance)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://medium.com/oracledevs/multimap-how-it-works-a3430f549d35&quot;&gt;Multimaps&lt;/a&gt; (productivity and type safety)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://medium.com/oracledevs/bag-the-counter-2689e901aadb&quot;&gt;Bags&lt;/a&gt; (productivity and type safety)&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;https://medium.com/@donraab/as-a-matter-of-factory-part-1-mutable-75cc2c5d72d9&quot;&gt;Mutable&lt;/a&gt; and &lt;a href=&quot;https://medium.com/@donraab/as-a-matter-of-factory-part-2-immutable-8cb72ff897ee&quot;&gt;Immutable&lt;/a&gt; Collection Factories (productivity)&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;If the collection framework(s) you are using today is (are) missing one or more of these features, and you need them, then it would really be worth your time to check out and try &lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;Eclipse Collections&lt;/a&gt;.&lt;/p&gt;&lt;h3&gt;Additional Reasons to try Eclipse Collections&lt;/h3&gt;&lt;ol&gt;&lt;li&gt;It’s open source and &lt;a href=&quot;https://projects.eclipse.org/projects/technology.collections&quot;&gt;managed at the Eclipse Foundation&lt;/a&gt; and you can contribute to the library if there is something you need&lt;/li&gt;&lt;li&gt;Eclipse Collections &lt;a href=&quot;http://eclipse.github.io/eclipse-collections-kata/api-design/#/5/2&quot;&gt;9.0&lt;/a&gt;, &lt;a href=&quot;http://eclipse.github.io/eclipse-collections-kata/api-design/#/5/1&quot;&gt;9.1&lt;/a&gt; and &lt;a href=&quot;http://eclipse.github.io/eclipse-collections-kata/api-design/#/5&quot;&gt;9.2 &lt;/a&gt;were released with a lot useful features that were contributed by 30 members of the open source community&lt;/li&gt;&lt;li&gt;There are fun &lt;a href=&quot;https://medium.com/@donraab/a-tale-of-two-katas-ec956410d26d&quot;&gt;code katas&lt;/a&gt; to get you started&lt;/li&gt;&lt;li&gt;Easy to understand and &lt;a href=&quot;https://www.infoq.com/articles/Refactoring-to-Eclipse-Collections&quot;&gt;refactor to&lt;/a&gt; if you already know lambdas/ streams&lt;/li&gt;&lt;li&gt;The Eclipse Collections &lt;a href=&quot;http://www.eclipse.org/collections/&quot;&gt;website&lt;/a&gt; is available in seven different languages&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections&quot;&gt;&lt;em&gt;Eclipse Collections&lt;/em&gt;&lt;/a&gt;&lt;em&gt; is open for &lt;/em&gt;&lt;a href=&quot;https://github.com/eclipse/eclipse-collections/blob/master/CONTRIBUTING.md&quot;&gt;&lt;em&gt;contributions&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. If you like the library, you can let us know by starring it on GitHub.&lt;/em&gt;&lt;/p&gt;&lt;img height=&quot;1&quot; src=&quot;https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=91593104af9d&quot; width=&quot;1&quot; /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href=&quot;https://medium.com/oracledevs/ten-reasons-to-use-eclipse-collections-91593104af9d&quot;&gt;Ten reasons to use Eclipse Collections&lt;/a&gt; was originally published in &lt;a href=&quot;https://medium.com/oracledevs&quot;&gt;Oracle Developers&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
+	<pubDate>Fri, 12 Oct 2018 02:37:52 +0000</pubDate>
+</item>
+<item>
+	<title>InfoQ Eclipse feed: Presentation: &quot;Yo... Ask Me Anything&quot; - Panel of NY Senior Java Developers</title>
+	<guid isPermaLink="true">https://www.infoq.com/presentations/panel-java-ny?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Eclipse</guid>
+	<link>https://www.infoq.com/presentations/panel-java-ny?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=Eclipse</link>
+	<description>&lt;img src=&quot;https://res.infoq.com/presentations/panel-java-ny/en/headerimage/ask-me-anything-h-1539606845177.jpeg&quot; /&gt;&lt;p&gt;The panelists discuss thoughts on the latest trends in Java, the new release model, modules, modern garbage collectors, Kotlin for the enterprise, Eclipse stewardship of JEE and the rising complexity of the Java source language.&lt;/p&gt; &lt;i&gt;By Justin Lee, Don Raab, Chandra Guntur, Sai Sharan Donthi, Jeanne Boyarsky&lt;/i&gt;</description>
+	<pubDate>Thu, 11 Oct 2018 03:28:00 +0000</pubDate>
+</item>
+<item>
+	<title>Scott Lewis: ECF 3.14.3 released</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-20358640.post-960976162722054014</guid>
+	<link>http://eclipseecf.blogspot.com/2018/10/ecf-3143-released.html</link>
+	<description>ECF 3.14.3 has been &lt;a href=&quot;http://www.eclipse.org/ecf/downloads.php&quot;&gt;released&lt;/a&gt;.  This is a bug fix release, but in addition to the fixes a number of usage examples have been created:&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipseecf.blogspot.com/2018/08/osgi-remote-services-between-python-and.html&quot;&gt;Remote Services Between Java and Python&lt;/a&gt; and Python for &lt;a href=&quot;http://eclipseecf.blogspot.com/2018/08/python-for-osgi-remote-services.html&quot;&gt;OSGi Remote Services&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipseecf.blogspot.com/2018/07/rest-remote-services-with-karaf-and.html&quot;&gt;RESTful Remote Services Using either CXF or Jersey&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipseecf.blogspot.com/2018/06/ecf-photon-supports-osgi-r7-async.html&quot;&gt;Using OSGi R7 Async Remote Services&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipseecf.blogspot.com/2018/04/ecf-photon-adds-gogo-commands.html&quot;&gt;Using Gogo Commands and RSA for Controlling Remote Services&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href=&quot;http://eclipseecf.blogspot.com/2018/04/ecf-photon-supports-bndtools.html&quot;&gt;Using BndTools 4 for Developing OSGi Remote Services&lt;/a&gt;</description>
+	<pubDate>Wed, 10 Oct 2018 00:26:57 +0000</pubDate>
+	<author>noreply@blogger.com (Scott Lewis)</author>
+</item>
+<item>
+	<title>JBoss Tools Team: JBoss Tools and Red Hat Developer Studio for Eclipse 2018-09</title>
+	<guid isPermaLink="true">https://tools.jboss.org/blog/12.9.0.html</guid>
+	<link>https://tools.jboss.org/blog/12.9.0.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;https://tools.jboss.org/downloads/jbosstools/2018-09/4.9.0.Final.html&quot;&gt;JBoss Tools 4.9.0&lt;/a&gt; and &lt;a href=&quot;https://tools.jboss.org/downloads/devstudio/2018-09/12.9.0.GA.html&quot;&gt;Red Hat Developer Studio 12.9&lt;/a&gt; for Eclipse 2018-09 are here waiting for you. Check it out!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;devstudio12&quot; src=&quot;https://tools.jboss.org/blog/images/devstudio12.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;installation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Red Hat Developer Studio comes with everything pre-bundled in its installer. Simply download it from our &lt;a href=&quot;https://developers.redhat.com/products/devstudio/overview/&quot;&gt;Red Hat Developer product page&lt;/a&gt; and run it like this:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;literalblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre&gt;java -jar devstudio-&amp;lt;installername&amp;gt;.jar&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Tools or Bring-Your-Own-Eclipse (BYOE) Developer Studio require a bit more:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This release requires at least Eclipse 4.9 (2018-09) but we recommend
+      using the latest &lt;a href=&quot;http://www.eclipse.org/downloads/packages/release/2018-09/r/eclipse-ide-java-ee-developers&quot;&gt;Eclipse 4.9 2018-09 JEE Bundle&lt;/a&gt; since then you get most of the dependencies preinstalled.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under &quot;JBoss Tools&quot; or &quot;Red Hat Developer Studio&quot;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For JBoss Tools, you can also use our update site directly.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;literalblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre&gt;http://download.jboss.org/jbosstools/photon/stable/updates/&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-new&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-new&quot;&gt;&lt;/a&gt;What is new?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Our main focus for this release was on adoption of Java11, improvements for container based development and bug fixing.
+      Eclipse 2018-09 itself has a lot of new cool stuff but let me highlight just a few updates in both Eclipse 2018-09 and JBoss Tools plugins that I think are worth mentioning.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;openshift-3&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#openshift-3&quot;&gt;&lt;/a&gt;OpenShift 3&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;inner-loop-for-spring-boot-applications&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#inner-loop-for-spring-boot-applications&quot;&gt;&lt;/a&gt;Inner loop for Spring Boot applications&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Although Spring Boot applications were already supported by the OpenShift server adapter,
+      the global developer experience has been enhanced. Let’s complete the full workflow.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;bootstrapping-your-spring-boot-applications&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#bootstrapping-your-spring-boot-applications&quot;&gt;&lt;/a&gt;Bootstrapping your Spring Boot applications&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A new generator (wizard) has been added to JBoss Tools. It’s called the Launcher
+      application as it’s based on the fabric8-launcher project. When you launch JBoss
+      Tools, you should see this in Red Hat Central:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click on the &lt;code&gt;&lt;code&gt;Launcher application&lt;/code&gt;&lt;/code&gt; link and the following wizard will appear:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop1&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop1.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Switch the &lt;code&gt;&lt;code&gt;Mission&lt;/code&gt;&lt;/code&gt; field to &lt;code&gt;&lt;code&gt;rest-http &lt;/code&gt;&lt;/code&gt; as we want to generate a simple
+      REST application and switch the &lt;code&gt;&lt;code&gt;Runtime&lt;/code&gt;&lt;/code&gt; field to &lt;code&gt;&lt;code&gt;spring-boot current-community&lt;/code&gt;&lt;/code&gt;
+      as we want to generate a Spring Boot based application.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then set the &lt;code&gt;&lt;code&gt;Project name&lt;/code&gt;&lt;/code&gt; field to &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; and leave other fields as-is.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop2&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop2.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click the &lt;code&gt;&lt;code&gt;Finish&lt;/code&gt;&lt;/code&gt; button. A new project will be added to your local workspace.
+      It may takes some times as Maven will resolve all the Spring Boot dependencies and
+      thus need to download them from the Internet.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When the project is build and if you expand the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; in the &lt;code&gt;&lt;code&gt;Project explorer&lt;/code&gt;&lt;/code&gt;
+      window, you should see this:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop3&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop3.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;storing-your-source-code-on-github&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#storing-your-source-code-on-github&quot;&gt;&lt;/a&gt;Storing your source code on GitHub&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;As OpenShift builder images retrieves code on a Git repository, we first need to push
+      the just generated application code to GitHub. The following section assumes that you
+      created a repository called &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; under your GitHub account.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We will first create a local Git repository for our application code then push it to
+      GitHub.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Select the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; project and right click the &lt;code&gt;&lt;code&gt;Team → Share project…​&lt;/code&gt;&lt;/code&gt;
+      menu item:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop4&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop4.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then select the &lt;code&gt;&lt;code&gt;Git&lt;/code&gt;&lt;/code&gt; repository type and click the &lt;code&gt;&lt;code&gt;Next&lt;/code&gt;&lt;/code&gt; button:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop5&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop5.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Select the &lt;code&gt;&lt;code&gt;Use or create repository in parent folder of project&lt;/code&gt;&lt;/code&gt; checkbox
+      then select the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; project:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop6&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop6.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click on the &lt;code&gt;&lt;code&gt;Create repository&lt;/code&gt;&lt;/code&gt; button and the on the &lt;code&gt;&lt;code&gt;Finish&lt;/code&gt;&lt;/code&gt; button.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The &lt;code&gt;&lt;code&gt;Project explorer&lt;/code&gt;&lt;/code&gt; view is updated:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop7&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop7.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Select the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; project and right click
+      the &lt;code&gt;&lt;code&gt;Team → Show in Repositories View&lt;/code&gt;&lt;/code&gt; menu item. A new view
+      called &lt;code&gt;&lt;code&gt;Git Repositories&lt;/code&gt;&lt;/code&gt; will be added to the perspective:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop8&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop8.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Inside this view, select the &lt;code&gt;&lt;code&gt;Remotes&lt;/code&gt;&lt;/code&gt; node and right click
+      the &lt;code&gt;&lt;code&gt;Create Remote…​&lt;/code&gt;&lt;/code&gt; menu item. The following dialog will be displayed:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop9&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop9.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click on the &lt;code&gt;&lt;code&gt;OK&lt;/code&gt;&lt;/code&gt; button, the following dialog will be displayed:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop10&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop10.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click on the &lt;code&gt;&lt;code&gt;Change…​&lt;/code&gt;&lt;/code&gt; button and enter &lt;code&gt;&lt;code&gt;git@github.com:GITHUB_USER/myfirstrestapp&lt;/code&gt;&lt;/code&gt;
+      in the &lt;code&gt;&lt;code&gt;URI&lt;/code&gt;&lt;/code&gt; field, replacing &lt;code&gt;&lt;code&gt;GITHUB_USER&lt;/code&gt;&lt;/code&gt; by your real GitHub user name.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then click the &lt;code&gt;&lt;code&gt;Finish&lt;/code&gt;&lt;/code&gt; button and then on the &lt;code&gt;&lt;code&gt;Save&lt;/code&gt;&lt;/code&gt; button.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect5&quot;&gt;
+      &lt;h6 id=&quot;pushing-code-to-github&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#pushing-code-to-github&quot;&gt;&lt;/a&gt;Pushing code to GitHub&lt;/h6&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We are now ready to push our application code to GitHub. Select the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; project
+      in the &lt;code&gt;&lt;code&gt;Project explorer&lt;/code&gt;&lt;/code&gt; view, right click the &lt;code&gt;&lt;code&gt;Team → Commit&lt;/code&gt;&lt;/code&gt; menu item. A new view
+      call &lt;code&gt;&lt;code&gt;Git Staging&lt;/code&gt;&lt;/code&gt; will open:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop11&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop11.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Double click on the view title to maximize it:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop12&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop12.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Select all the files listed in the &lt;code&gt;&lt;code&gt;Unstaged changes&lt;/code&gt;&lt;/code&gt; list and click the &amp;amp;apos+&amp;amp;apos button. The
+      files will then move to the &lt;code&gt;&lt;code&gt;Staged Changes&lt;/code&gt;&lt;/code&gt; list:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop13&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop13.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enter a commit message (ex &amp;amp;aposInitial version&amp;amp;apos) and click the &lt;code&gt;&lt;code&gt;Commit and Push…​&lt;/code&gt;&lt;/code&gt; button.
+      the following dialog will be displayed:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop14&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop14.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click on the &lt;code&gt;&lt;code&gt;Next&lt;/code&gt;&lt;/code&gt; button:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop15&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop15.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click on the &lt;code&gt;&lt;code&gt;Finish&lt;/code&gt;&lt;/code&gt; button to start the push operation.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A dialog with the result of the push operation will be displayed. Click the &lt;code&gt;&lt;code&gt;OK&lt;/code&gt;&lt;/code&gt; to
+      dismiss it.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect5&quot;&gt;
+      &lt;h6 id=&quot;add-spring-boot-devtools-to-the-packaged-application&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#add-spring-boot-devtools-to-the-packaged-application&quot;&gt;&lt;/a&gt;Add Spring Boot Devtools to the packaged application&lt;/h6&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;In order to support live update on an OpenShift cluster, we must add Spring Boot
+      DevTools to our Spring Boot application.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Open the &lt;code&gt;&lt;code&gt;pom.xml&lt;/code&gt;&lt;/code&gt; in the  &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt;. Locate the &lt;code&gt;&lt;code&gt;spring-boot-maven-plugin&lt;/code&gt;&lt;/code&gt;
+      and add the following section:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;listingblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre class=&quot;prettyprint highlight&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;            &amp;lt;configuration&amp;gt;
+                    &amp;lt;excludeDevtools&amp;gt;false&amp;lt;/excludeDevtools&amp;gt;
+                  &amp;lt;/configuration&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The whole &lt;code&gt;&lt;code&gt;spring-boot-maven-plugin&lt;/code&gt;&lt;/code&gt; section is given below:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;listingblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre class=&quot;prettyprint highlight&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;      &amp;lt;plugin&amp;gt;
+              &amp;lt;groupId&amp;gt;org.springframework.boot&amp;lt;/groupId&amp;gt;
+              &amp;lt;artifactId&amp;gt;spring-boot-maven-plugin&amp;lt;/artifactId&amp;gt;
+              &amp;lt;executions&amp;gt;
+                &amp;lt;execution&amp;gt;
+                  &amp;lt;goals&amp;gt;
+                    &amp;lt;goal&amp;gt;repackage&amp;lt;/goal&amp;gt;
+                  &amp;lt;/goals&amp;gt;
+                  &amp;lt;configuration&amp;gt;
+                    &amp;lt;excludeDevtools&amp;gt;false&amp;lt;/excludeDevtools&amp;gt;
+                  &amp;lt;/configuration&amp;gt;
+                &amp;lt;/execution&amp;gt;
+              &amp;lt;/executions&amp;gt;
+            &amp;lt;/plugin&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Close and save the &lt;code&gt;&lt;code&gt;pom.xml&lt;/code&gt;&lt;/code&gt; file.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Push the change to GitHub: select the &lt;code&gt;&lt;code&gt;Team → Commit…​&lt;/code&gt;&lt;/code&gt; with a new commit
+      message (ex &amp;amp;aposWith DevTools&amp;amp;apos)&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;deploy-the-application-on-openshift&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#deploy-the-application-on-openshift&quot;&gt;&lt;/a&gt;Deploy the application on OpenShift&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Before we can deploy the application on OpenShift, we must first create an ImageStream on
+      our OpenShift cluster. The reason is that the Spring Boot support relies on S2I builds
+      that will explode the Spring Boot uber JAR when Spring Boot DevTools is present. As this
+      is not supported by all Java based S2I images, we will use one that supports it, ie fabric8/s2i-java:2.2&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;First, in the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; project, create a new JSON file called &lt;code&gt;&lt;code&gt;springboot.json&lt;/code&gt;&lt;/code&gt;
+      and set the content of this file to:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;listingblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre class=&quot;prettyprint highlight&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;{
+          &quot;apiVersion&quot;: &quot;image.openshift.io/v1&quot;,
+          &quot;kind&quot;: &quot;ImageStream&quot;,
+      	&quot;metadata&quot;: {
+      		&quot;name&quot;: &quot;springboot&quot;
+      	},
+          &quot;spec&quot;: {
+              &quot;lookupPolicy&quot;: {
+                  &quot;local&quot;: false
+              },
+              &quot;tags&quot;: [
+                  {
+                      &quot;annotations&quot;: {
+      					&quot;tags&quot;: &quot;builder,java&quot;
+      				},
+                      &quot;from&quot;: {
+                          &quot;kind&quot;: &quot;DockerImage&quot;,
+                          &quot;name&quot;: &quot;registry.access.redhat.com/fuse7/fuse-java-openshift:1.1&quot;
+                      },
+                      &quot;importPolicy&quot;: {},
+                      &quot;name&quot;: &quot;1.1&quot;,
+                      &quot;referencePolicy&quot;: {
+                          &quot;type&quot;: &quot;Source&quot;
+                      }
+                  }
+              ]
+          }
+      }&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then, from the OpenShift explorer view, select the OpenShift connection for your cluster (if you don’t have
+      one already defined, you must define it), right click on the &lt;code&gt;&lt;code&gt;New → Resource…​&lt;/code&gt;&lt;/code&gt; menu item and the
+      following dialog will be displayed:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop16&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop16.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You can select the OpenShift project you want to work with and then click on
+      the &lt;code&gt;&lt;code&gt;Browse Workspace…​&lt;/code&gt;&lt;/code&gt; button and select the &lt;code&gt;&lt;code&gt;springboot.json&lt;/code&gt;&lt;/code&gt; file
+      in the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; project:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop17&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop17.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click the &lt;code&gt;&lt;code&gt;OK&lt;/code&gt;&lt;/code&gt; and &lt;code&gt;&lt;code&gt;Finish&lt;/code&gt;&lt;/code&gt; buttons. The new ImageStream will be created and a status
+      dialog will be displayed:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop18&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop18.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect5&quot;&gt;
+      &lt;h6 id=&quot;create-the-application-on-openshift&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#create-the-application-on-openshift&quot;&gt;&lt;/a&gt;Create the application on OpenShift&lt;/h6&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’re now ready to create the application on the OpenShift cluster. Select the OpenShift
+      connection, right click the &lt;code&gt;&lt;code&gt;New → Application…​&lt;/code&gt;&lt;/code&gt; menu item. If you scroll down the
+      list, you should see the &lt;code&gt;&lt;code&gt;springboot&lt;/code&gt;&lt;/code&gt; ImageStream we just created:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop19&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop19.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Select this ImageStream and click the &lt;code&gt;&lt;code&gt;Next&lt;/code&gt;&lt;/code&gt; button:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop20&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop20.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enter &lt;code&gt;&lt;code&gt;`myfirstrestapp&lt;/code&gt;&lt;/code&gt; in the &lt;code&gt;&lt;code&gt;`Name&lt;/code&gt;&lt;code&gt;
+      field, &lt;/code&gt;`https://github.com/GITHUB_USER/myfirstrestapp&lt;code&gt;&lt;/code&gt; in the &lt;/code&gt;&lt;code&gt;Git Repository URL&lt;code&gt;&lt;/code&gt;
+      field, replacing &lt;/code&gt;&lt;code&gt;GITHUB_USER&lt;code&gt;&lt;/code&gt; by your real GitHub user name and click
+      the &lt;/code&gt;&lt;code&gt;Next``&lt;/code&gt; button.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;On the &lt;code&gt;&lt;code&gt;Deployment Configuration &amp;amp; Scalability&lt;/code&gt;&lt;/code&gt; dialog, click the &lt;code&gt;&lt;code&gt;`Next&lt;/code&gt;&lt;/code&gt; button.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;On the &lt;code&gt;&lt;code&gt;Service &amp;amp; Routing Settings&lt;/code&gt;&lt;/code&gt;, select the &lt;code&gt;&lt;code&gt;8778-tcp&lt;/code&gt;&lt;/code&gt; port and click
+      the &lt;code&gt;&lt;code&gt;Edit&lt;/code&gt;&lt;/code&gt; button, change the 8787 value to 8080:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop21&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop21.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click the &lt;code&gt;&lt;code&gt;OK&lt;/code&gt;&lt;/code&gt; button then the &lt;code&gt;&lt;code&gt;Finish&lt;/code&gt;&lt;/code&gt; button.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The list of OpenShift resources created will be displayed by a dialog:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop22&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop22.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click the &lt;code&gt;&lt;code&gt;OK&lt;/code&gt;&lt;/code&gt; button to dismiss it and when asked to import the application
+      code, click the &lt;code&gt;&lt;code&gt;Cancel&lt;/code&gt;&lt;/code&gt; button as we already have the source code.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;After the build is run (this may takes several minutes as the Maven build will download
+      lots of dependencies), you should see a running pod:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop23&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop23.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;inner-loop-setup&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#inner-loop-setup&quot;&gt;&lt;/a&gt;Inner loop setup&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We are going to synchronize the local Eclipse project with the remote OpenShift pod. Each time a file
+      will be modified locally, then the pod will be updated accordingly.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Select the running pod in the &lt;code&gt;&lt;code&gt;OpenShift explorer&lt;/code&gt;&lt;/code&gt;, right click the &lt;code&gt;&lt;code&gt;Server Adapter…​&lt;/code&gt;&lt;/code&gt; menu
+      item, the following dialog will be displayed:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop24&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop24.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Click the &lt;code&gt;&lt;code&gt;OK&lt;/code&gt;&lt;/code&gt; button, the initial synchronization will be started and
+      the &lt;code&gt;&lt;code&gt;Servers&lt;/code&gt;&lt;/code&gt; view will be displayed:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop25&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop25.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We’ve not setup the synchronization between our local Eclipse project and the remote
+      OpenShift project. Each modification done locally will be reported on the remote
+      OpenShift cluster.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Let’s modify our local application code and see the changes applied almost
+      instantly:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Edit the file &lt;code&gt;&lt;code&gt;src/main/java/io/openshift/booster/service/Greeting.java&lt;/code&gt;&lt;/code&gt;
+      in the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; project and change the &lt;code&gt;&lt;code&gt;FORMAT&lt;/code&gt;&lt;/code&gt; string
+      value from &lt;code&gt;&lt;code&gt;Hello, %s!&lt;/code&gt;&lt;/code&gt; to &lt;code&gt;&lt;code&gt;Hello, Mr %s!&lt;/code&gt;&lt;/code&gt; and save the file.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The file should be now:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;listingblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre class=&quot;prettyprint highlight&quot;&gt;&lt;code class=&quot;language-java&quot;&gt;/*
+       * Copyright 2016-2017 Red Hat, Inc, and individual contributors.
+       *
+       * Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);
+       * you may not use this file except in compliance with the License.
+       * You may obtain a copy of the License at
+       *
+       * http://www.apache.org/licenses/LICENSE-2.0
+       *
+       * Unless required by applicable law or agreed to in writing, software
+       * distributed under the License is distributed on an &quot;AS IS&quot; BASIS,
+       * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+       * See the License for the specific language governing permissions and
+       * limitations under the License.
+       */
+      package io.openshift.booster.service;
+      
+      // tag::snippet-greeting[]
+      public class Greeting {
+      
+          public static final String FORMAT = &quot;Hello, Mr %s!&quot;;
+      
+          private final String content;
+      
+          public Greeting() {
+              this.content = null;
+          }
+      
+          public Greeting(String content) {
+              this.content = content;
+          }
+      
+          public String getContent() {
+              return content;
+          }
+      }
+      // end::snippet-greeting[]&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Then, in the &lt;code&gt;ÒpenShift explorer&lt;/code&gt;` view, select the &lt;code&gt;&lt;code&gt;myfirstrestapp&lt;/code&gt;&lt;/code&gt; deployment
+      and select the &lt;code&gt;&lt;code&gt;`Show In → Web Browser&lt;/code&gt;&lt;/code&gt; menu item and once the web browser is
+      displayed, ckick the &lt;code&gt;&lt;code&gt;Invoke&lt;/code&gt;&lt;/code&gt; button, you should see the following view:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;spring boot inner loop26&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/openshift/images/spring-boot-inner-loop26.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You’ve just experienced the inner loop on your Spring Boot application: any change done
+      locally is reported and testable almost immedialtely on your OpenShift cluster.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You can restart the deployment in debug mode and you’ll be able to remote debug your
+      Spring Boot application. Amazing, no ?&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;server-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#server-tools&quot;&gt;&lt;/a&gt;Server tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;wildfly-14-server-adapter&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#wildfly-14-server-adapter&quot;&gt;&lt;/a&gt;Wildfly 14 Server Adapter&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A server adapter has been added to work with Wildfly 14. It adds support for Java EE 8.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;hibernate-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#hibernate-tools&quot;&gt;&lt;/a&gt;Hibernate Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;runtime-provider-updates&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#runtime-provider-updates&quot;&gt;&lt;/a&gt;Runtime Provider Updates&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 5.3 runtime provider now incorporates Hibernate Core version 5.3.6.Final and Hibernate Tools version 5.3.6.Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 5.2 runtime provider now incorporates Hibernate Core version 5.2.17.Final and Hibernate Tools version 5.2.11.Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 5.1 runtime provider now incorporates Hibernate Core version 5.1.16.Final and Hibernate Tools version 5.1.10.Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;fuse-tooling&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#fuse-tooling&quot;&gt;&lt;/a&gt;Fuse Tooling&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;rest-viewer-becoming-an-editor&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#rest-viewer-becoming-an-editor&quot;&gt;&lt;/a&gt;REST Viewer becoming an editor&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Previously, there was a REST editor which was read-only. It is useful to have a great overview of already defined Camel REST DSL definitions. Now the editor and its related properties tab are also providing editing capabilities allowing to develop faster.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Fully Editable REST Editor&quot; src=&quot;https://tools.jboss.org/documentation/whatsnew/fusetools/images/fuse-editor-rest-tab-properties-11.1.0.am2.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You can now:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;ulist&quot;&gt;
+      &lt;ul&gt;
+      &lt;li&gt;
+      &lt;p&gt;Create and delete REST Configurations&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Create and delete new REST Elements&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Create and delete new REST Operations&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Edit properties for a selected REST Element in the Properties view&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+      &lt;p&gt;Edit properties for a selected REST Operation in the Properties view&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;In addition, we’ve improved the look and feel by fixing the scrolling capabilities of the REST Element and REST Operations lists.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;java-developement-tools-jdt&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#java-developement-tools-jdt&quot;&gt;&lt;/a&gt;Java Developement Tools (JDT)&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;java-editor&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#java-editor&quot;&gt;&lt;/a&gt;Java Editor&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;improved-breadcrumb-for-dark-theme&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#improved-breadcrumb-for-dark-theme&quot;&gt;&lt;/a&gt;Improved Breadcrumb for Dark theme&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The &lt;strong&gt;Breadcrumb&lt;/strong&gt; in the &lt;strong&gt;Java Editor&lt;/strong&gt; now uses a dark background in the Dark theme.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;breadcrumb dark and light&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/breadcrumb_dark_and_light.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;In the Light theme, the &lt;strong&gt;Breadcrumb&lt;/strong&gt; uses a flat look style instead of a gradient.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;quick-fix-to-create-abstract-methods&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#quick-fix-to-create-abstract-methods&quot;&gt;&lt;/a&gt;Quick fix to create abstract methods&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The existing quick fix to create missing methods has been improved to create abstract
+      method declarations. The option only appears when the target class is an abstract class.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;quickfix create abstract method 1&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/quickfix_create_abstract_method_1.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;quick-fix-to-convert-to-static-import&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#quick-fix-to-convert-to-static-import&quot;&gt;&lt;/a&gt;Quick fix to convert to static import&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A new quick fix has been implemented that allows the user to convert static field accesses
+      and static methods to use a static import. It’s also possible to replace all occurrences at
+      the same time.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;quickfix convert to static import&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/quickfix_convert_to_static_import.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;java-code-generation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#java-code-generation&quot;&gt;&lt;/a&gt;Java Code Generation&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;improved-hashcode-and-equals-generation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#improved-hashcode-and-equals-generation&quot;&gt;&lt;/a&gt;Improved hashCode() and equals() generation&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A new option in the &lt;strong&gt;Source &amp;gt; Generate hashCode() and equals()…​&lt;/strong&gt; tool allows you to create
+      implementations using the Java 7 &lt;code&gt;&lt;code&gt;Objects.equals&lt;/code&gt;&lt;/code&gt; and &lt;code&gt;&lt;code&gt;Objects.hash&lt;/code&gt;&lt;/code&gt; methods.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;hashcode equals dialog&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/hashcode-equals-dialog.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The above setup generates the following code:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;hashcode equals generation&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/hashcode-equals-generation.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Additionally, arrays are handled more cleverly. The generation prefers the &lt;code&gt;&lt;code&gt;Arrays.deepHashCode&lt;/code&gt;&lt;/code&gt;
+      and &lt;code&gt;&lt;code&gt;Arrays.deepEquals&lt;/code&gt;&lt;/code&gt; methods when dealing with &lt;code&gt;&lt;code&gt;Object[]&lt;/code&gt;&lt;/code&gt;, &lt;code&gt;&lt;code&gt;Serializable[]&lt;/code&gt;&lt;/code&gt;
+      and &lt;code&gt;&lt;code&gt;Cloneable[]&lt;/code&gt;&lt;/code&gt; or any type variables extending these types.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;java-views-and-dialogs&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#java-views-and-dialogs&quot;&gt;&lt;/a&gt;Java Views and Dialogs&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;quick-fix-for-jre-compiler-compliance-problem-marker&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#quick-fix-for-jre-compiler-compliance-problem-marker&quot;&gt;&lt;/a&gt;Quick Fix for JRE Compiler Compliance Problem Marker&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A new quick fix is provided on the &lt;strong&gt;JRE Compiler Compilance&lt;/strong&gt; problem marker which is created
+      when the compiler compliance does not match the JRE being used. This quick fix provides the
+      option of opening the &lt;strong&gt;Compiler Compliance&lt;/strong&gt; page of the project to fix the issue.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;quickfix open cc page&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/quickfix_open_cc_page.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Selecting this option opens the &lt;strong&gt;Compiler Compliance&lt;/strong&gt; property page for the specified project
+      as shown below.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;quickfix cc page&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/quickfix_cc_page.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;open-type-dialog-now-always-shows-the-full-path&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#open-type-dialog-now-always-shows-the-full-path&quot;&gt;&lt;/a&gt;Open Type dialog now always shows the full path&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The &lt;strong&gt;Open Type&lt;/strong&gt; dialog now always shows the full path of all the matching items.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;open type full path&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/open_type_full_path.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;java-formatter&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#java-formatter&quot;&gt;&lt;/a&gt;Java Formatter&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;keep-simple-loops-in-one-line&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#keep-simple-loops-in-one-line&quot;&gt;&lt;/a&gt;Keep simple loops in one line&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;New formatter settings have been added that make it possible to keep the bodies
+      of simple loops (without braces) in the same line as their headers, similar to
+      previously existing setting for simple &amp;amp;aposif&amp;amp;apos statements. Different kind of loops
+      (&amp;amp;aposfor&amp;amp;apos, &amp;amp;aposwhile&amp;amp;apos, &amp;amp;aposdo while&amp;amp;apos) can be controlled independently.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The settings can be found in the profile editor under
+      &lt;strong&gt;New Lines &amp;gt; In control statements &amp;gt; Simple Loops&lt;/strong&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;formatter compact loops&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/formatter-compact-loops.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;There’s also a new setting to control how these loops should be handled if they
+      exceed the maximum line width. It’s located under
+      &lt;strong&gt;Line Wrapping &amp;gt; Wrapping settings &amp;gt; Statements &amp;gt; Compact loops (&amp;amp;aposfor&amp;amp;apos, &amp;amp;aposwhile&amp;amp;apos, &amp;amp;aposdo while&amp;amp;apos)&lt;/strong&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;formatter compact loops wrap&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/formatter-compact-loops-wrap.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;align-items-in-columns&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#align-items-in-columns&quot;&gt;&lt;/a&gt;Align items in columns&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A feature previously known as &lt;strong&gt;align fields in columns&lt;/strong&gt; has been expanded and
+      can now be used for &lt;strong&gt;variable declarations&lt;/strong&gt; and &lt;strong&gt;assignment statements&lt;/strong&gt; as well.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;An option has also been added to always &lt;strong&gt;align with spaces&lt;/strong&gt;, even if tabs are
+      used for general indentation. This is very similar to the &lt;strong&gt;Use spaces to indent wrapped lines&lt;/strong&gt;
+      option and is useful to make the code look good in editors with differing tab width.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;All the settings related to aligning are now in the new preferences subsection:
+       &lt;strong&gt;Indentation &amp;gt; Align items in columns&lt;/strong&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;formatter align in columns&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/formatter-align-in-columns.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;debug&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#debug&quot;&gt;&lt;/a&gt;Debug&lt;/h4&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;timeout-for-result-of-step-operation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#timeout-for-result-of-step-operation&quot;&gt;&lt;/a&gt;Timeout for result of step operation&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Observing the result of step operations may slow down execution, which may be
+      unusable if the step takes long already. Therefore a timeout (default: 7000 ms)
+      has been introduced after which the observation mechanism is disabled until the
+      end of the step operation.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;result timeout 537142&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/result_timeout_537142.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The timeout can be configured
+      in &lt;strong&gt;Preferences &amp;gt; Java &amp;gt; Debug &amp;gt; Don’t show if step operation takes longer than (ms)&lt;/strong&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;option-to-hide-running-threads-in-debug-view&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#option-to-hide-running-threads-in-debug-view&quot;&gt;&lt;/a&gt;Option to hide running threads in Debug view&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A new option has been introduced in the &lt;strong&gt;Debug&lt;/strong&gt; view to show or hide running threads.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Hiding running threads can be useful when debugging heavily multithreaded application,
+      when it is difficult to find threads stopped at breakpoints among hundreds or thousands
+      of running threads.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;hide running threads&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/hide-running-threads.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;show-command-line-button-in-launch-configuration&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#show-command-line-button-in-launch-configuration&quot;&gt;&lt;/a&gt;Show Command Line button in Launch Configuration&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A new button &lt;strong&gt;Show Command Line&lt;/strong&gt; has been added in the &lt;strong&gt;Java Launch Configuration&lt;/strong&gt;
+      dialog.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;show command line&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/show_command_line.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Clicking the button will open a dialog to show the command line used for launching
+      the application.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;show command line detail&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/show_command_line_detail.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;option-to-disable-thread-name-changes-in-debug-view&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#option-to-disable-thread-name-changes-in-debug-view&quot;&gt;&lt;/a&gt;Option to disable thread name changes in Debug View&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Thread name changes in the debuggee JVM are reflected in the &lt;strong&gt;Debug&lt;/strong&gt; View.
+      A VM option can now be used to disable this behavior, in case the JVM communication
+      necessary for the name updates is not desired.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The functionality can be disabled by specifying the following VM option&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;listingblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre class=&quot;prettyprint highlight&quot;&gt;&lt;code&gt;-Dorg.eclipse.jdt.internal.debug.core.model.ThreadNameChangeListener.disable=true&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;support-for-long-classpath-modulepath&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#support-for-long-classpath-modulepath&quot;&gt;&lt;/a&gt;Support for long classpath/modulepath&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Classpath and/or modulepath are now shortened if they are longer than current
+      operating system limits.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If a temporary jar is needed to shorten the classpath (Java 8 and previous versions),
+      a dialog is shown asking for confirmation.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;enable classpathonly dialog&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/enable-classpathonly-dialog.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The option &lt;strong&gt;Use temporary jar to specify classpath (to avoid classpath length limitations)&lt;/strong&gt;
+      is available in the &lt;strong&gt;Classpath&lt;/strong&gt; tab of the &lt;strong&gt;Run/Debug Configuration&lt;/strong&gt; dialog.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;enable classpathonly option&quot; src=&quot;https://www.eclipse.org/eclipse/news/4.9/images/enable-classpathonly-option.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;and-more&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#and-more&quot;&gt;&lt;/a&gt;And more…​&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You can find more noteworthy updates in on &lt;a href=&quot;https://tools.jboss.org/documentation/whatsnew/jbosstools/4.9.0.Final.html&quot;&gt;this page&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-next&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-next&quot;&gt;&lt;/a&gt;What is next?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Having JBoss Tools 4.9.0 and Red Hat Developer Studio 12.9 out we are already working on the next release for Eclipse 2018-12.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enjoy!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Jeff Maury&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Tue, 09 Oct 2018 09:17:08 +0000</pubDate>
+</item>
+<item>
+	<title>Maximilian and Jonas: EclipseSource Oomph Profile – updated to 2018-09</title>
+	<guid isPermaLink="false">https://eclipsesource.com/?p=39980</guid>
+	<link>https://eclipsesource.com/blogs/2018/10/09/eclipsesource-oomph-profile-updated-to-2018-09/</link>
+	<description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;In September, Eclipse 2018-09 has been released, a new version of the Eclipse IDE and platform. It contains many useful improvements, so it is worth to update. It is the first release following the new release cycle with four equal releases per year. &lt;/span&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;One of many noteworthy extensions is the new minimap view, which provides a complete overview of opened documents. It allows to browser files more efficiently and due to showing the selection, also identifying occurrences of certain expressions, e.g. usages of fields.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;EclipseSource Oomph Profile - updated to 2018-09&quot; class=&quot;alignnone wp-image-39981 size-full&quot; height=&quot;500&quot; src=&quot;https://eclipsesource.com/wp-content/uploads/2018/10/image1.png&quot; width=&quot;967&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Further general improvements of the Eclipse 2018-09 IDE are summarized in the following video, Git and Platform improvements in a separate video below.  Both are provided by Holger Voormann, whom we want to thank you once again for this great work!&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;As always, in case you use our EclipseSource Oomph profile (see &lt;/span&gt;&lt;a href=&quot;https://eclipsesource.com/blogs/2015/08/17/introducing-the-eclipsesource-oomph-profile/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;here&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; for more details), you should get a notification and Oomph will apply the update automatically. If you do not get the notification, just navigate to the menu entry “Help” =&amp;gt; “Perform Set-Up Task”.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This will automatically update all plugins to Photon, but keep all existing settings untouched.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Have fun with Eclipse 2018-09!&lt;/span&gt;&lt;/p&gt;</description>
+	<pubDate>Tue, 09 Oct 2018 08:10:18 +0000</pubDate>
+</item>
+<item>
+	<title>Thabang Mashologu: Welcome Jameka</title>
+	<guid isPermaLink="false">https://blogs.eclipse.org/6649 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/thabang-mashologu/welcome-jameka</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;I am thrilled to announce that Jameka Woodberry has joined the Eclipse Foundation as a Marketing Specialist based in Europe.&lt;/p&gt;
+
+&lt;p&gt;Jameka comes to us from SAP, where she managed marketing programs for the EMEA region. Jameka has an MA in Business Psychology and an MBA in International Business with a focus on Marketing and Communications. Her wonderful personality and ample experience will be great assets to the Eclipse community.&lt;/p&gt;
+
+&lt;p&gt;Jameka is originally from California and is currently based in Wiesloch, Germany.  &lt;/p&gt;
+
+&lt;p&gt;Please join me in welcoming Jameka to the Eclipse Foundation marketing team.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Fri, 05 Oct 2018 18:29:06 +0000</pubDate>
+</item>
+<item>
+	<title>Wayne Beaton: Jakarta EE @EclipseFdn: Getting it done</title>
+	<guid isPermaLink="false">http://waynebeaton.wordpress.com/?p=5448</guid>
+	<link>https://waynebeaton.wordpress.com/2018/10/03/jakarta-ee-eclipsefdn-getting-it-done/</link>
+	<description>&lt;p&gt;To say that bringing Jakarta EE to life at the Eclipse Foundation was a massive undertaking is a gross understatement.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.eclipse.org/community/eclipse_newsletter/2018/april/images/jakartaee_newsletter.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;We started this effort in early 2018. Today, we have 39 open source projects (as part of the &lt;a href=&quot;https://projects.eclipse.org/projects/ee4j&quot;&gt;EE4J Top Level Project&lt;/a&gt;) representing 14% of our overall project space. These projects collectively have 99 Git repositories (most of which are hosted in the &lt;a href=&quot;https://github.com/eclipse-ee4j&quot;&gt;eclipse-ee4j&lt;/a&gt; GitHub organization; a small number are hosted on Eclipse Foundation infrastructure) representing 8% of the repositories created and managed by the Eclipse Foundation’s IT team. We have 162 committers working on these projects, representing 10% of our total active committer community. These projects have made a combined 440 requests to the Eclipse Foundation’s IP Team to review intellectual property, representing 17% of the work done by the team. The Jakarta EE projects have 53 distinct CI instances running (or in the planning stages to run) on Eclipse Foundation &lt;a href=&quot;https://ci.eclipse.org/&quot;&gt;build infrastructure&lt;/a&gt;, representing 30% of our work there (on the topic of build, if you have some spare cycles and want to contribute, &lt;a href=&quot;https://github.com/orgs/eclipse-ee4j/projects/1&quot;&gt;we can use your help&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Added to the all of the project-related work, we’ve also been doing a lot of other work to  stand up the new &lt;a href=&quot;https://jakarta.ee&quot;&gt;Jakarta EE Working Group&lt;/a&gt;, bootstrap the new &lt;a href=&quot;https://projects.eclipse.org/projects/ee4j/who&quot;&gt;EE4J PMC&lt;/a&gt;, manage related trademarks and various legal agreements, recruit participants, build websites, improve infrastructure, hire and train new staff, and more.&lt;/p&gt;
+&lt;p&gt;By way of comparison, the work that we do with &lt;a href=&quot;https://projects.eclipse.org/projects/iot&quot;&gt;Eclipse IoT&lt;/a&gt; is at about the same scale, but grew more organically (one open source project at a time) over &lt;em&gt;six years&lt;/em&gt;. Jakarta EE happened &lt;em&gt;all at once&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;While we engaged in this enormous chunk of work, we still did everything that we’ve always done. In just the first nine months of 2018, for example, the Eclipse Intellectual Property Team has already received and processed 30% more requests for reviews than they did in all of 2017! And the number of new project proposals, committers, and contributions (not including those that are related to Jakarta EE) that we’ve added in 2018 are on an upward trend compared with past years.&lt;/p&gt;
+&lt;p&gt;This has been an all-hands-on-deck sort of effort for the Eclipse Foundation staff. Even those of us who have not been directly involved in the work, have helped by taking on extra burdens so that those of use who were directly involved could stay focused.&lt;/p&gt;
+&lt;p&gt;This is not to say that we’ve done this alone: this has been a &lt;em&gt;ginormous&lt;/em&gt; shared effort. We’ve had a lot of help from the Eclipse Foundation member companies that have contributed many talented people to the migration effort, and—of course—the members of our community who have stepped up.&lt;/p&gt;
+&lt;p&gt;I really want to name names, but the probability of me missing somebody is so high that I dare not. If you want to meet some of the key players, join us at &lt;a href=&quot;https://www.eclipsecon.org/europe2018&quot;&gt;EclipseCon Europe&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2018&quot;&gt;&lt;img alt=&quot;Home&quot; class=&quot; aligncenter&quot; src=&quot;https://www.eclipsecon.org/sites/all/themes/solstice/_themes/solstice_eclipsecon_europe2018/logo.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+	<pubDate>Wed, 03 Oct 2018 18:31:06 +0000</pubDate>
+</item>
+<item>
+	<title>Tanja Obradovic: My first 100 days at the Eclipse Foundation</title>
+	<guid isPermaLink="false">https://blogs.eclipse.org/6647 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/tanja-obradovic/my-first-100-days-eclipse-foundation</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p dir=&quot;ltr&quot;&gt;I made it to my first 100 days at the Eclipse Foundation! New beginnings are always exciting. It has been a blast and a challenge at the same time. Many twists and turns, but steady progress nevertheless for both Jakarta EE and me!&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;My experience at the Eclipse Foundation started with EclipseCon France 2018 in the amazing Toulouse. Clearly, I was always a strong believer in open source as a movement, but meeting people from different companies, and witnessing their enthusiasm in person is something different. As the Eclipse Foundation hosts over 350 different open source projects, the conference attracted not only technology developers, but different industries using them as well. Their presence and interest demonstrated the importance of open source in software development. Jakarta EE, naturally, was one of the highlights of the conference, clearly indicating huge interest of the community in evolving Java EE technology and making it ready for cloud-native Java application development.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;At the time, mid-June 2018, it was still very early days for us both. So early that it was hard to contemplate the concrete first steps for Jakarta EE. We hadn’t yet completed migrating the necessary Java EE contributions from Oracle to the Eclipse Foundation, and still struggling with all the legal aspects required in the process. We had initial conversations on the new Specification Process that will fill the role of the Java Community Process, and started looking into the new world with open source TCKs and requirements for the Jakarta EE implementations. And for me, getting familiar with the working group members and its committees, the community members, the existing Eclipse Foundation processes already in use, the processes that need to be defined, and figuring out what to focus on first was a challenge for sure!&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;Jumping to the fall, not everything is ready, but steady progress has been made. The majority of the Java EE code, including TCKs and GlassFish, found a new home at the Eclipse Foundation. New processes are being developed and the first drafts are ready for internal review. Name spaces are being discussed and even some specifications are being suggested as possible first components under the Jakarta EE specification umbrella. And yes, another Eclipse Foundation conference is just around the corner. &lt;a href=&quot;https://www.eclipsecon.org/europe2018&quot;&gt;EclipseCon Europe 2018&lt;/a&gt; is being actively planned. If you haven’t already, please register! &lt;a href=&quot;https://www.eclipsecon.org/europe2018/jakarta-ee-and-microprofile&quot;&gt;Jakarta EE and MicroProfile Community Day&lt;/a&gt; is taking shape and we need your presence and participation.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;I am looking forward to finding out what the next 100 days will bring!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags: &lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/eclipsecon&quot;&gt;EclipseCon&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/jakartaee-0&quot;&gt;JakartaEE&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/eclipse-foundation&quot;&gt;Eclipse Foundation&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/glassfish&quot;&gt;GlassFish&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/eclipse-glassfish&quot;&gt;Eclipse GlassFish&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/eclipseconeurope&quot;&gt;EclipseConEurope&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 03 Oct 2018 13:22:59 +0000</pubDate>
+</item>
+<item>
+	<title>vert.x project: Eclipse Vert.x 3.5.4</title>
+	<guid isPermaLink="true">https://vertx.io/blog/eclipse-vert-x-3-5-4</guid>
+	<link>https://vertx.io/blog/eclipse-vert-x-3-5-4</link>
+	<description>&lt;article&gt;&lt;p&gt;We have just released Vert.x 3.5.4, a bug fix release of Vert.x 3.5.x.&lt;/p&gt;
+&lt;p&gt;Since the release of Vert.x 3.5.3, quite a few bugs have been reported. We would like to thank you all for reporting these issues.&lt;/p&gt;
+&lt;p&gt;Three CVE have also been reported and fixed in this release:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/eclipse-vertx/vert.x/issues/2648&quot;&gt;CVE-2018-12541&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/vertx-web/issues/1025&quot;&gt;CVE-2018-12542&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/vertx-web/issues/1021&quot;&gt;CVE-2018-12544&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vert.x 3.5.4 release notes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/wiki/wiki/3.5.4-Release-Notes&quot;&gt;https://github.com/vert-x3/wiki/wiki/3.5.4-Release-Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The event bus client using the SockJS bridge are available from NPM, Bower and as a WebJar:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.npmjs.com/package/vertx3-eventbus-client&quot;&gt;https://www.npmjs.com/package/vertx3-eventbus-client&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/vert-x3/vertx-bus-bower&quot;&gt;https://github.com/vert-x3/vertx-bus-bower&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.webjars.org/&quot;&gt;http://www.webjars.org/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Docker images are also available on the &lt;a href=&quot;https://hub.docker.com/u/vertx/&quot;&gt;Docker Hub&lt;/a&gt;. The Vert.x distribution is also available from &lt;a href=&quot;http://sdkman.io/index.html&quot;&gt;SDKMan&lt;/a&gt; and &lt;a href=&quot;http://brew.sh/&quot;&gt;HomeBrew&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The artifacts have been deployed to &lt;a href=&quot;http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22io.vertx%22%20AND%20v%3A%223.5.4%22&quot;&gt;Maven Central&lt;/a&gt; and you can get the distribution on &lt;a href=&quot;https://bintray.com/vertx/downloads/distribution/3.5.4/view&quot;&gt;Bintray&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Happy coding and see you soon on our user or dev &lt;a href=&quot;https://vertx.io/community&quot;&gt;channels&lt;/a&gt;.&lt;/p&gt;
+&lt;/article&gt;</description>
+	<pubDate>Wed, 03 Oct 2018 00:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>EclipseCon Europe 2018: Thorntail - A Micro implementation of Eclipse MicroProfile</title>
+	<guid isPermaLink="false">https://www.eclipsecon.org/news/743 at https://www.eclipsecon.org</guid>
+	<link>https://www.eclipsecon.org/europe2018/news/thorntail-micro-implementation-eclipse-microprofile</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;h4&gt;by Ken Finnigan&lt;/h4&gt;
+
+&lt;p&gt;In this article we introduce some of the topics Michal Szynkiewicz, from the Thorntail team, will be presenting during his EclipseCon session &lt;a href=&quot;https://www.eclipsecon.org/europe2018/sessions/invited-talk-thorntail-micro-implementation-eclipse-microprofile&quot;&gt;Thorntail - A Micro Implementation of Eclipse MicroProfile&lt;/a&gt;. Be sure to come by his session to learn all the details on Eclipse MicroProfile and how to use it in Thorntail!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-news-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2018/news/thorntail-micro-implementation-eclipse-microprofile&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;img-responsive block-center&quot; height=&quot;250&quot; src=&quot;https://www.eclipsecon.org/sites/default/files/styles/solstice_news_-_default_-_thumbnail/public/news/Thorntail%20logo.png?itok=hq_61S5i&quot; width=&quot;250&quot; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Tue, 02 Oct 2018 14:38:56 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Case Study: How Bosch Is Succeeding with Open Source at Eclipse IoT</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/RS679nuKZkQ/</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/RS679nuKZkQ/</link>
+	<description>How is it that a 150-year-old, 400,000 employee industrial conglomerate is competing and winning in the rapidly involving IoT software industry?&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/RS679nuKZkQ&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Tue, 02 Oct 2018 14:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Milinkovich: Case Study: How Bosch Is Succeeding with Open Source at Eclipse IoT</title>
+	<guid isPermaLink="false">http://mmilinkov.wordpress.com/?p=1464</guid>
+	<link>https://mmilinkov.wordpress.com/2018/10/02/how-bosch-is-succeeding-with-open-source/</link>
+	<description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;How is it that a 150-year-old, 400,000 employee industrial conglomerate is competing and winning in the rapidly involving IoT software industry? We’ve just published a &lt;a href=&quot;https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;case study&lt;/a&gt; in which &lt;a href=&quot;https://www.bosch.com/&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;Bosch&lt;/a&gt; shares how open collaboration at the Eclipse Foundation factors into that success. This case study is required reading for any organization considering pursuing an open source strategy. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This case study is yet another proof point that open source has won. No single company can deliver innovation at the pace and scale of open source. For industrial companies in particular, broadly adopted open technologies and standards are critical for success in the digital economy. It’s a case of disrupt or be disrupted — and open source holds the key for rapid and sustainable innovation in the digital age. The team at Bosch recognized all of this several years ago. When the time came for creating an IoT platform for themselves and their customers, Bosch chose open source to compete with proprietary vendors. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;At the Eclipse Foundation, Bosch is successfully executing a long-term strategy to create a widely adopted open source platform for IoT. Having previously been a long-term Solutions member of the Eclipse Foundation, Bosch increased its membership level in the Eclipse Foundation to become a Strategic member and joined the Eclipse IoT Working Group in 2015. Beyond IoT, Bosch is an active participant in the Eclipse Foundation’s Automotive Industry community.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Some of the highlights from the case study (&lt;a href=&quot;https://iot.eclipse.org/case-studies/bosch-leadership-in-eclipse-iot/&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;html&lt;/a&gt;) (&lt;a href=&quot;https://iot.eclipse.org/resources/case-studies/Eclipse%20IoT%20Success%20Story%20-%20Bosch.pdf&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;pdf&lt;/a&gt;):&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bosch’s leadership in the Eclipse IoT community has helped position the company as a leader in the IoT industry.&lt;/span&gt;&lt;/b&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bosch has created six different IoT open source projects since joining the Eclipse IoT community. In addition, Bosch contributes to many other Eclipse IoT projects.&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Bosch has contributed around 1.5 million lines of code to Eclipse projects. At present, over 60 Bosch developers work on Eclipse IoT projects.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Many of the &lt;a href=&quot;https://www.bosch-si.com/corporate/home/homepage.html&quot; rel=&quot;noopener&quot; target=&quot;_blank&quot;&gt;Bosch IoT Suite&lt;/a&gt; commercial products are now based on Eclipse IoT projects. The open development process used by the Eclipse projects has been adopted by Bosch Software Innovations’ product development teams. The open source development model helps Bosch provide more transparency for their customers, and aids in recruiting new developers keen to work on open source.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Eclipse Foundation’s clear, vendor-neutral rules for intellectual property sharing and decision-making make it easy to collaborate with other organizations on driving rapid innovation. The Foundation’s legal processes provide Bosch with the legal assurance that they can successfully embed open source technology into their commercial products.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;We are thrilled that Bosch is seeing the benefits of their open source strategy and participation in the Eclipse community. Thanks to the contributions of Bosch engineers and many other developers within the Eclipse community, all can benefit from runtimes and frameworks creating a open, vendor-neutral platform for IoT. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;To learn more about the Eclipse IoT community, head over to the &lt;/span&gt;&lt;a href=&quot;https://iot.eclipse.org/working-group/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Eclipse IoT Working Group website&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/p&gt;</description>
+	<pubDate>Tue, 02 Oct 2018 12:04:01 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Eclipse CBI - Common Build Infrastructure changes</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/xnwBaw3lZDg/eclipse-cbi-common-build-infrastructure-changes</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/xnwBaw3lZDg/eclipse-cbi-common-build-infrastructure-changes</link>
+	<description>The Eclipse CBI, which traces its roots back to 2006, has undergone some important changes recently, including a new Kubernetes+Docker-powered environment at https://jenkins.eclipse.org that re announced previously.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/xnwBaw3lZDg&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Fri, 28 Sep 2018 20:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Denis Roy: Eclipse CBI - Common Build Infrastructure changes</title>
+	<guid isPermaLink="false">https://blogs.eclipse.org/6645 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/denis-roy/eclipse-cbi-common-build-infrastructure-changes</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Eclipse CBI, which traces its roots back to 2006, has undergone some important changes recently, including a new Kubernetes+Docker-powered environment at &lt;a href=&quot;https://jenkins.eclipse.org&quot;&gt;https://jenkins.eclipse.org&lt;/a&gt; that we announced previously.&lt;/p&gt;
+
+&lt;p&gt;Like all the Foundation's services, CBI does not operate at zero-cost, and its immense success over the years has given us many a headache in balancing operating cost vs. the great value it provides to our projects.&lt;/p&gt;
+
+&lt;p&gt;We've now defined the CBI offering in more clear terms; notably, the resources and support levels that projects can expect to receive. For 90% of our projects, these resources are sufficient and for them, nothing changes.&lt;/p&gt;
+
+&lt;p&gt;We are aware that one-size-does-not-fit-all, and some projects just need more. Additional resources are therefore available to projects that are backed by a Member company.&lt;/p&gt;
+
+&lt;p&gt;The CBI page at &lt;a href=&quot;https://wiki.eclipse.org/CBI&quot;&gt;https://wiki.eclipse.org/CBI&lt;/a&gt; has all the info on CBI, JIPP and all the services that are included, as well as the available resources and service levels we're offering.&lt;/p&gt;
+
+&lt;p&gt;We hope Eclipse projects continue to receive great value from Eclipse CBI, and we continue to work hard on providing a service that meets the growing needs of our projects.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Fri, 28 Sep 2018 18:56:21 +0000</pubDate>
+</item>
+<item>
+	<title>Mike Milinkovich: Jakarta EE Status – September 2018 Update</title>
+	<guid isPermaLink="false">http://mmilinkov.wordpress.com/?p=1458</guid>
+	<link>https://mmilinkov.wordpress.com/2018/09/27/jakarta-ee-status-september-2018-update/</link>
+	<description>&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Migrating Java EE to the Eclipse Foundation and Jakarta EE is a process not an event. In the past couple of weeks however, several very important milestones have occurred that deserve to be recognized.&lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;100% of Glassfish and related Java EE reference implementation components from Oracle have now been contributed, and published to GitHub repositories of the EE4J organization. For those of us at the Eclipse Foundation, part of the reason why this is so huge is that to a large degree, we’ve completed our part. The repos (99) have been provisioned, the committers (162) have been given access, and the initial intellectual property reviews (404) have been done. From this point on, progress on the projects is now largely under the control of the projects themselves.&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;&lt;img alt=&quot;ee4j_status&quot; class=&quot;alignnone size-full wp-image-1459&quot; src=&quot;https://mmilinkov.files.wordpress.com/2018/09/ee4j_status.png?w=700&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Builds for the EE4J projects are now running on Eclipse Foundation infrastructure based on our Jenkins-based Common Build Infrastructure. &lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Java EE TCKs have been contributed and are now available in open source. The importance of this cannot be understated, as my colleague Tanja Obradović points out in &lt;/span&gt;&lt;a href=&quot;https://blogs.eclipse.org/post/tanja-obradovic/java-ee-tck-now-open-sourced-eclipse-foundation&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;her blog&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;The Eclipse Foundation has signed the Oracle Java EE TCK agreement, which is going to allow us to ship Eclipse Glassfish certified as Java EE 8 compatible. This has also required us to create a testing infrastructure at the Eclipse Foundation, and allowed the EE4J projects to begin testing against the Java EE 8 TCKs.&lt;/span&gt;&lt;/li&gt;
+&lt;li style=&quot;font-weight: 400;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;IBM, Oracle, Payara, Red Hat, and Tomitribe have all committed to three years of funding for Jakarta EE ranging from $25K to $300K per year. This funding will allow us to create a dedicated team and fund marketing activities for the &lt;/span&gt;&lt;a href=&quot;https://jakarta.ee/&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Jakarta EE Working Group&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. &lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This migration has been an enormous effort, and we certainly have a ways to go yet. But it’s always fun to celebrate some victories along the way.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If you are interested in learning more about Jakarta EE and the future of cloud native Java, please join us at &lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2018&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;EclipseCon Europe&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; in Germany in October. There is a wealth of &lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2018/session-tracks-eclipsecon-europe-2018/cloud-native-java&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Jakarta EE and MicroProfile content&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. In particular, I hope to see you at the talk that I am doing with Wayne Beaton about the &lt;/span&gt;&lt;a href=&quot;https://www.eclipsecon.org/europe2018/sessions/directors-pick-introducing-eclipse-foundation-specification-process&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;new specification process&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;. Oh, and there’s also this &lt;/span&gt;&lt;a href=&quot;https://www.oracle.com/code-one/index.html&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;other conference&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt; happening in San Francisco at the same time….&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;</description>
+	<pubDate>Thu, 27 Sep 2018 21:21:02 +0000</pubDate>
+</item>
+<item>
+	<title>Tanja Obradovic: Java EE TCK is now open sourced at Eclipse Foundation</title>
+	<guid isPermaLink="false">https://blogs.eclipse.org/6643 at https://blogs.eclipse.org</guid>
+	<link>https://blogs.eclipse.org/post/tanja-obradovic/java-ee-tck-now-open-sourced-eclipse-foundation</link>
+	<description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;A major milestone was achieved this September 2018! The Jakarta EE TCKs are here and finally open sourced! It was long wished for and waited on by many. But what exactly does that mean?&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Transparency&lt;/strong&gt;: Vendors, customers, and the community, in general, can see what passing the tests really means (i.e. they can see the actual tests that are performed and gain better insight into the value of the process). Transparency, of course, extends to development. As new TCKs are developed, the community can monitor, influence, and engage in the process. Transparency is the gateway to openness, improved process quality, and — ultimately — better products.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Openness&lt;/strong&gt;: Access by a broader community means that there is a greater pool of potential contributors than had existed before. A big part of openness is “leveling the playing field”, with influence and control being determined by a robust governance model and processes. This framework supports open collaboration on new ideas and opportunities, increasing the value of the work. This also means a shared burden.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Shared burden&lt;/strong&gt;: By opening up the process to new ideas and contributors, we reduce dependency on any single organization or group, and have the potential to spread responsibility for building and maintaining the TCKs.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;&lt;strong&gt;Vendor neutrality&lt;/strong&gt;: Reducing dependency on any single organization or group provides us with insurance that the work can progress if that single entity reduces their investment.&lt;/p&gt;
+
+&lt;p dir=&quot;ltr&quot;&gt;The community is already collaborating on driving the TCKs forward. In the first two weeks since the TCKs were moved to the Foundation’s Git repositories, we had 18 commits from four committers from two different companies. This is another step in making the Jakarta EE brand, the future direction of enterprise Java™ technologies and inviting the community to be a part of it.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-blog-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags: &lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/jakartaee&quot;&gt;#JakartaEE&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/tck&quot;&gt;#TCK&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;https://blogs.eclipse.org/blog-tags/javaee&quot;&gt;#JavaEE&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Thu, 27 Sep 2018 20:37:47 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: Eclipse Foundation and Cloud Native Computing Foundation Collaborate to Grow Kubernetes Use Cases in Trillion Dollar IoT Market</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/-0H9ni_i2ac/Eclipse-Foundation-and-Cloud-Native-Computing-Foundation-Collaborate-to-Grow-Kubernetes-Use-Cases-in-Trillion-Dollar-IoT-Market.html</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/-0H9ni_i2ac/Eclipse-Foundation-and-Cloud-Native-Computing-Foundation-Collaborate-to-Grow-Kubernetes-Use-Cases-in-Trillion-Dollar-IoT-Market.html</link>
+	<description>Red Hat and other Eclipse IoT members will collaborate in working group to extend capabilities of Kubernetes for IoT Edge use cases.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/-0H9ni_i2ac&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Thu, 27 Sep 2018 14:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Ditto: Announcing Ditto Milestone 0.8.0-M2</title>
+	<guid isPermaLink="true">https://www.eclipse.org/ditto/2018-09-27-milestone-announcement-080-M2.html</guid>
+	<link>https://www.eclipse.org/ditto/2018-09-27-milestone-announcement-080-M2.html</link>
+	<description>&lt;p&gt;Brace yourself, Eclipse Ditto is preparing for its 
+&lt;a href=&quot;https://projects.eclipse.org/projects/iot.ditto/releases/0.8.0&quot;&gt;first release 0.8.0&lt;/a&gt;. We are happy to announce our next
+milestone towards that goal.&lt;/p&gt;
+
+&lt;p&gt;Have a look at the Milestone &lt;a href=&quot;https://www.eclipse.org/ditto/release_notes_080-M2.html&quot;&gt;0.8.0-M2 release notes&lt;/a&gt; for what changed in detail.&lt;/p&gt;
+
+&lt;p&gt;The main changes and new features are&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;enforcement of max. entity size of twins and messages&lt;/li&gt;
+  &lt;li&gt;added MQTT support connecting to MQTT 3.1.1 brokers&lt;/li&gt;
+  &lt;li&gt;subscribing to changes based on filters&lt;/li&gt;
+  &lt;li&gt;conditional requests at all APIs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;artifacts&quot;&gt;Artifacts&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, we had some problems during the milestone release build causing that the released artifacts have version
+&lt;code class=&quot;highlighter-rouge&quot;&gt;0.8.0-M2b&lt;/code&gt; instead of &lt;code class=&quot;highlighter-rouge&quot;&gt;0.8.0-M2&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The new Java artifacts have been published at the &lt;a href=&quot;https://repo.eclipse.org/content/repositories/ditto/&quot;&gt;Eclipse Maven repository&lt;/a&gt;
+as well as &lt;a href=&quot;https://repo1.maven.org/maven2/org/eclipse/ditto/&quot;&gt;Maven central&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Docker images have been pushed to Docker Hub:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/r/eclipse/ditto-policies/&quot;&gt;eclipse/ditto-policies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/r/eclipse/ditto-things/&quot;&gt;eclipse/ditto-things&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/r/eclipse/ditto-things-search/&quot;&gt;eclipse/ditto-things-search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/r/eclipse/ditto-gateway/&quot;&gt;eclipse/ditto-gateway&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/r/eclipse/ditto-connectivity/&quot;&gt;eclipse/ditto-connectivity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hub.docker.com/r/eclipse/ditto-concierge/&quot;&gt;eclipse/ditto-concierge&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img alt=&quot;Ditto&quot; class=&quot;docimage&quot; src=&quot;https://www.eclipse.org/ditto/images/ditto.svg&quot; /&gt;&lt;/figure&gt;
+
+&lt;p&gt;–&lt;br /&gt;
+The Eclipse Ditto team&lt;/p&gt;</description>
+	<pubDate>Thu, 27 Sep 2018 04:00:00 +0000</pubDate>
+</item>
+<item>
+	<title>Eclipse Announcements: K8s at the Edge - Some Context on the New Kubernetes IoT Working Group</title>
+	<guid isPermaLink="true">http://feedproxy.google.com/~r/eclipse/fnews/~3/DO3N2EnGESs/2Du9i4p</guid>
+	<link>http://feedproxy.google.com/~r/eclipse/fnews/~3/DO3N2EnGESs/2Du9i4p</link>
+	<description>The Eclipse Foundation is excited to be part of today's announcement of a new Kubernetes IoT Edge Working Group.&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/eclipse/fnews/~4/DO3N2EnGESs&quot; width=&quot;1&quot; /&gt;</description>
+	<pubDate>Wed, 26 Sep 2018 13:30:00 +0000</pubDate>
+</item>
+
+</channel>
+</rss>
